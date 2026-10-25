@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hey, I'm Meghna Pandey! 👋
 
-<!--
-**Meghna-2103/Meghna-2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE (AI & ML) Student**
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer | 🌱 Lifelong Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+* 🎓 Pursuing B.Tech in Computer Science Engineering (AI & ML).
+* 🌱 Currently learning C++, Data Structures & Algorithms.
+* 🐍 Exploring Python and Artificial Intelligence.
+* 🗄️ Learning MySQL and database management.
+* 🎯 Working towards improving my coding and problem-solving skills.
+* 🚀 Excited to build projects and explore new technologies.
+
+### 🛠️ Technologies & Tools
+
+**Programming Languages**
+
+* C
+* C++
+* Python
+
+**Database**
+
+* MySQL
+
+**Tools**
+
+* Git
+* GitHub
+
+### 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Problem Solving
+* Software Development Fundamentals
+
+### 🎯 My Goals
+
+* Strengthen my programming fundamentals.
+* Practice DSA and improve problem-solving.
+* Build practical projects.
+* Explore AI and Machine Learning.
+* Contribute to open-source projects in the future.
+
+### 🤝 Connect With Me
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/meghna-pandey-b08k/)
+
+🐙 **GitHub:** [Explore my repositories](https://github.com/Meghna-2103)
+
+---
+
+⭐ *Learning, building, and growing one step at a time.*
